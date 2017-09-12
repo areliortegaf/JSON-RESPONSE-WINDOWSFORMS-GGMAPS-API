@@ -1,0 +1,10 @@
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\bin\Debug\GGWebServices.exe.config
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\bin\Debug\GGWebServices.exe
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\bin\Debug\GGWebServices.pdb
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.csprojResolveAssemblyReference.cache
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.Form1.resources
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.Properties.Resources.resources
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.csproj.GenerateResource.Cache
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.csproj.CoreCompileInputs.cache
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.exe
+C:\Users\asortega\source\repos\GGWebServices\GGWebServices\obj\Debug\GGWebServices.pdb
